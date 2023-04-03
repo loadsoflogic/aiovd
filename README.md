@@ -1,0 +1,1 @@
+# gujarati_status
