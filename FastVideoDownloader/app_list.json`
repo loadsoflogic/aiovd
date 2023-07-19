@@ -1,0 +1,39 @@
+{
+  "app_list": [
+    {
+      "name": "WhatsApp",
+      "img": "icon_whatsapp.png",
+      "show": ""
+    },
+	{
+      "name": "WA Bussiness",
+      "img": "icon_whatsapp_bussiness.png",
+      "show": "y"
+    },
+	{
+      "name": "Instgram",
+      "img": "icon_insta.png",
+      "show": "y"
+    },
+	{
+      "name": "Facebook",
+      "img": "icon_fb.png",
+      "show": "y"
+    },
+	{
+      "name": "ShareChat",
+      "img": "Icon_sharechat.png",
+      "show": "y"
+    },
+	{
+      "name": "Linkedin",
+      "img": "icon_linkedin.png",
+      "show": "y"
+    },
+	{
+      "name": "Pinterest",
+      "img": "icon_pinterest.png",
+      "show": "y"
+    }
+  ]
+}
