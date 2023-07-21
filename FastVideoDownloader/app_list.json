@@ -10,7 +10,7 @@
       "name": "Bussiness",
       "img": "icon_whatsapp_bussiness.png",
       "show": "y",
-      "working": "y"
+      "working": "n"
     },
 	{
       "name": "Instgram",
