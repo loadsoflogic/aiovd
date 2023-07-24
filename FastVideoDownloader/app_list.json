@@ -47,6 +47,12 @@
       "img": "icon_pinterest.png",
       "show": "y",
       "working": "y"
+    },
+	{
+      "name": "Threads",
+      "img": "threads.png",
+      "show": "y",
+      "working": "y"
     }
   ]
 }
