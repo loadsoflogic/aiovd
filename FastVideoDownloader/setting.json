@@ -24,7 +24,7 @@
       
       "show_ads": "yes",
       "ads_time": 4,
-      "open_ad_break": 6,
+      "open_ad_break": 3,
 	  
       "video_ads_show": "no",
       "banner_ads_show": "yes",
