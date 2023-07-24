@@ -4,55 +4,64 @@
       "name": "WhatsApp",
       "img": "icon_whatsapp.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "n"
     },
 	{
       "name": "Bussiness",
       "img": "icon_whatsapp_bussiness.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "n"
     },
      {
       "name": "Reels",
       "img": "reels.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "y"
     },
 	{
       "name": "Instgram",
       "img": "icon_insta.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "n"
     },
 	{
       "name": "Facebook",
       "img": "icon_fb.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "n"
     },
 	{
       "name": "ShareChat",
       "img": "Icon_sharechat.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "n"
     },
 	{
       "name": "Linkedin",
       "img": "icon_linkedin.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "n"
     },
 	{
       "name": "Pinterest",
       "img": "icon_pinterest.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "n"
     },
 	{
       "name": "Threads",
       "img": "threads.png",
       "show": "y",
-      "working": "y"
+      "working": "y",
+      "update": "n"
     }
   ]
 }
