@@ -23,7 +23,7 @@
     },
 	{
       "name": "Instgram",
-      "img": "icon_insta.png",
+      "img": "new_insta.png",
       "show": "y",
       "working": "y",
       "update": "n"
