@@ -23,14 +23,14 @@
     },
 	{
       "name": "Instgram",
-      "img": "new_insta.png",
+      "img": "icon_insta.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
       "name": "Facebook",
-      "img": "new_fb.png",
+      "img": "icon_fb.png",
       "show": "y",
       "working": "y",
       "update": "n"
