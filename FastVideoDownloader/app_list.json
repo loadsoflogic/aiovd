@@ -30,7 +30,7 @@
     },
 	{
       "name": "Facebook",
-      "img": "icon_fb.png",
+      "img": "new_fb.png",
       "show": "y",
       "working": "y",
       "update": "n"
