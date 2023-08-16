@@ -2,7 +2,7 @@
   "data": [
     {
       "app_version": 1,
-      "fix_update": "yes",
+      "fix_update": "no",
       "update_title": "App Update",
       "update_des": "➺ For more features and a batter user experience.\r\nPlease Upgrade your App.\r\n\r\nThank you...",
       "app_stop": "no",
@@ -23,7 +23,7 @@
       "t_admob_video_id": "ca-app-pub-3940256099942544/5224354917",
       
       "show_ads": "yes",
-      "ads_time": 4,
+      "ads_time": 8,
       "open_ad_break": 3,
 	  
       "video_ads_show": "no",
