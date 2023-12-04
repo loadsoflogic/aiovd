@@ -17,7 +17,7 @@
      {
       "name": "Reels",
       "img": "reels.png",
-      "show": "y",
+      "show": "n",
       "working": "y",
       "update": "n"
     },
