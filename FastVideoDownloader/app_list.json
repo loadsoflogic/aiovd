@@ -1,56 +1,56 @@
 {
   "app_list": [
     {
-      "name": "WhatApp",
+      "name": "WhatsApp",
       "img": "w.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "Bussiess",
+      "name": "Bussiness",
       "img": "b.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
      {
-      "name": "Ree1",
+      "name": "Reels",
       "img": "r.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "Instget",
+      "name": "Instgram",
       "img": "i.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "FaceTook",
+      "name": "Facebook",
       "img": "f.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "ShareMas",
+      "name": "ShareChat",
       "img": "s.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "LinkeBin",
+      "name": "Linkedin",
       "img": "l.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "PinteTest",
+      "name": "Pinterest",
       "img": "icon_pinterest.png",
       "show": "n",
       "working": "y",
