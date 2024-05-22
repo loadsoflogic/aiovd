@@ -1,65 +1,65 @@
 {
   "app_list": [
     {
-      "name": "WhatsApp",
-      "img": "icon_whatsapp.png",
+      "name": "WhatApp",
+      "img": "w.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "Bussiness",
-      "img": "icon_whatsapp_bussiness.png",
+      "name": "Bussiess",
+      "img": "b.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
      {
-      "name": "Reels",
-      "img": "reels.png",
+      "name": "Ree1",
+      "img": "r.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "Instgram",
-      "img": "icon_insta.png",
+      "name": "Instget",
+      "img": "i.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "Facebook",
-      "img": "icon_fb.png",
+      "name": "FaceTook",
+      "img": "f.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "ShareChat",
-      "img": "Icon_sharechat.png",
+      "name": "ShareMassage",
+      "img": "s.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "Linkedin",
-      "img": "icon_linkedin.png",
+      "name": "LinkeBin",
+      "img": "l.png",
       "show": "y",
       "working": "y",
       "update": "n"
     },
 	{
-      "name": "Pinterest",
+      "name": "PinteTest",
       "img": "icon_pinterest.png",
-      "show": "y",
+      "show": "n",
       "working": "y",
       "update": "n"
     },
 	{
       "name": "Threads",
       "img": "threads.png",
-      "show": "y",
+      "show": "n",
       "working": "y",
       "update": "n"
     }
